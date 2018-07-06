@@ -1,0 +1,3 @@
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/cmake-build-debug/CMakeFiles/ISP_DESIGN.dir
