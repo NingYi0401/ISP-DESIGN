@@ -1,4 +1,1 @@
-/usr/share/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/mccreening/DATA/G.CODE/ISP_DESIGN
--- Configuring done
--- Generating done
--- Build files have been written to: /media/mccreening/DATA/G.CODE/ISP_DESIGN/cmake-build-debug
+CMakeLists.txt not found in /media/mccreening/DATA/G.CODE/ISP_DESIGN

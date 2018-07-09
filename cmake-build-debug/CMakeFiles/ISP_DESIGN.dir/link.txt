@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/ISP_DESIGN.dir/main.c.o  -o ISP_DESIGN 
