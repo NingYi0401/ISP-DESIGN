@@ -1,1 +1,4 @@
-CMakeLists.txt not found in /media/mccreening/DATA/G.CODE/ISP_DESIGN
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug
