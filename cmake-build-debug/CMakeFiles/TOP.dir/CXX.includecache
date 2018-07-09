@@ -6,27 +6,27 @@
 
 #IncludeRegexTransform: 
 
-/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.cpp
+/home/mccreening/Desktop/ISP-DESIGN/main.cpp
 iostream
 -
 main.h
-/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.h
+/home/mccreening/Desktop/ISP-DESIGN/main.h
 
-/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.h
+/home/mccreening/Desktop/ISP-DESIGN/main.h
 
-/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step1.cpp
+/home/mccreening/Desktop/ISP-DESIGN/step1.cpp
 main.h
-/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.h
+/home/mccreening/Desktop/ISP-DESIGN/main.h
 iostream
 -
 
-/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step2/step2.cpp
+/home/mccreening/Desktop/ISP-DESIGN/step2/step2.cpp
 iostream
 -
 step2.h
-/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step2/step2.h
+/home/mccreening/Desktop/ISP-DESIGN/step2/step2.h
 ../main.h
-/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.h
+/home/mccreening/Desktop/ISP-DESIGN/main.h
 
-/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step2/step2.h
+/home/mccreening/Desktop/ISP-DESIGN/step2/step2.h
 

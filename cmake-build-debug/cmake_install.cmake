@@ -1,4 +1,4 @@
-# Install script for directory: /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP
+# Install script for directory: /home/mccreening/Desktop/ISP-DESIGN
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

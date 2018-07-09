@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP
+CMAKE_SOURCE_DIR = /home/mccreening/Desktop/ISP-DESIGN
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug
+CMAKE_BINARY_DIR = /home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/TOP.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/TOP.dir/flags.make
 
 CMakeFiles/TOP.dir/main.cpp.o: CMakeFiles/TOP.dir/flags.make
 CMakeFiles/TOP.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TOP.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TOP.dir/main.cpp.o -c /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TOP.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TOP.dir/main.cpp.o -c /home/mccreening/Desktop/ISP-DESIGN/main.cpp
 
 CMakeFiles/TOP.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TOP.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.cpp > CMakeFiles/TOP.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mccreening/Desktop/ISP-DESIGN/main.cpp > CMakeFiles/TOP.dir/main.cpp.i
 
 CMakeFiles/TOP.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TOP.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.cpp -o CMakeFiles/TOP.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mccreening/Desktop/ISP-DESIGN/main.cpp -o CMakeFiles/TOP.dir/main.cpp.s
 
 CMakeFiles/TOP.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/TOP.dir/main.cpp.o.provides.build: CMakeFiles/TOP.dir/main.cpp.o
 
 CMakeFiles/TOP.dir/step1.cpp.o: CMakeFiles/TOP.dir/flags.make
 CMakeFiles/TOP.dir/step1.cpp.o: ../step1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TOP.dir/step1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TOP.dir/step1.cpp.o -c /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TOP.dir/step1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TOP.dir/step1.cpp.o -c /home/mccreening/Desktop/ISP-DESIGN/step1.cpp
 
 CMakeFiles/TOP.dir/step1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TOP.dir/step1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step1.cpp > CMakeFiles/TOP.dir/step1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mccreening/Desktop/ISP-DESIGN/step1.cpp > CMakeFiles/TOP.dir/step1.cpp.i
 
 CMakeFiles/TOP.dir/step1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TOP.dir/step1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step1.cpp -o CMakeFiles/TOP.dir/step1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mccreening/Desktop/ISP-DESIGN/step1.cpp -o CMakeFiles/TOP.dir/step1.cpp.s
 
 CMakeFiles/TOP.dir/step1.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/TOP.dir/step1.cpp.o.provides.build: CMakeFiles/TOP.dir/step1.cpp.o
 
 CMakeFiles/TOP.dir/step2/step2.cpp.o: CMakeFiles/TOP.dir/flags.make
 CMakeFiles/TOP.dir/step2/step2.cpp.o: ../step2/step2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TOP.dir/step2/step2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TOP.dir/step2/step2.cpp.o -c /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step2/step2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TOP.dir/step2/step2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TOP.dir/step2/step2.cpp.o -c /home/mccreening/Desktop/ISP-DESIGN/step2/step2.cpp
 
 CMakeFiles/TOP.dir/step2/step2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TOP.dir/step2/step2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step2/step2.cpp > CMakeFiles/TOP.dir/step2/step2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mccreening/Desktop/ISP-DESIGN/step2/step2.cpp > CMakeFiles/TOP.dir/step2/step2.cpp.i
 
 CMakeFiles/TOP.dir/step2/step2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TOP.dir/step2/step2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step2/step2.cpp -o CMakeFiles/TOP.dir/step2/step2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mccreening/Desktop/ISP-DESIGN/step2/step2.cpp -o CMakeFiles/TOP.dir/step2/step2.cpp.s
 
 CMakeFiles/TOP.dir/step2/step2.cpp.o.requires:
 
@@ -143,7 +143,7 @@ TOP: CMakeFiles/TOP.dir/step1.cpp.o
 TOP: CMakeFiles/TOP.dir/step2/step2.cpp.o
 TOP: CMakeFiles/TOP.dir/build.make
 TOP: CMakeFiles/TOP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable TOP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable TOP"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TOP.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -162,6 +162,6 @@ CMakeFiles/TOP.dir/clean:
 .PHONY : CMakeFiles/TOP.dir/clean
 
 CMakeFiles/TOP.dir/depend:
-	cd /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug /media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/cmake-build-debug/CMakeFiles/TOP.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mccreening/Desktop/ISP-DESIGN /home/mccreening/Desktop/ISP-DESIGN /home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug /home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug /home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug/CMakeFiles/TOP.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/TOP.dir/depend
 
