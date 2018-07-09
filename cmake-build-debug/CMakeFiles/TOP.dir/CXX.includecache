@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.cpp
+iostream
+-
+main.h
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.h
+
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.h
+
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step1.cpp
+main.h
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.h
+iostream
+-
+
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step2/step2.cpp
+iostream
+-
+step2.h
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step2/step2.h
+../main.h
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/main.h
+
+/media/mccreening/DATA/G.CODE/ISP_DESIGN/TOP/step2/step2.h
+
