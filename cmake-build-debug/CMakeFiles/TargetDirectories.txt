@@ -1,3 +1,0 @@
-/home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug/CMakeFiles/TOP.dir
-/home/mccreening/Desktop/ISP-DESIGN/cmake-build-debug/CMakeFiles/edit_cache.dir
