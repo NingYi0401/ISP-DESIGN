@@ -2,4 +2,4 @@ make clean
 
 make
 
-./main McCree Write Hello World
+./main McCree Write Hello World -l ./SrcImage/2.raw -o /home/mccreening/Desktop/ISP-DESIGN/HDR/ResultImage/result

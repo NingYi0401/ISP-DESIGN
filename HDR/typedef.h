@@ -9,8 +9,8 @@
 /**
  * use to typedef some general useful params
  */
-#define width 1280
-#define height 720
-#define bitWidth 10
+#define width 1280  // 1280
+#define height 720  // 720
+#define bitWidth 10 // 10
 
 #endif
